@@ -1,0 +1,19 @@
+## Interface: 80000
+## Title: |cff105c92ViksUI Config|r
+## Notes: In-game configuration for ViksUI
+## Credits to: Tukz, Dawn, Shestak, Haste, Roth, P3lim, Monolit, AlleyKat.
+## Author: Viks, Tryllemann
+## Version: 8.00
+## RequiredDeps: ViksUI
+## SavedVariables: GUIConfigAll, GUIConfigSettings
+## SavedVariablesPerCharacter: GUIConfig
+## X-Curse-Packaged-Version: 8.00
+## X-Curse-Project-Name: ViksUI
+## X-Curse-Project-ID: viksui
+## X-WoWI-ID: 21462
+## X-Website: http://www.wowinterface.com/downloads/info21462-ViksUI.html
+
+local\english.lua
+local\russian.lua
+
+core.lua

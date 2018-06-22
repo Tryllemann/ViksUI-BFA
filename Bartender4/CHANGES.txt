@@ -1,0 +1,70 @@
+Changes since tag 4.7.10
+
+commit 02253eeb5c858034714b638fbca6feec128ecd70
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri May 25 12:30:57 2018 +0200
+
+    Create a custom StatusTrackingBarManager
+    
+    Taking over the FrameXML version causes taint issues
+
+commit d52b1f85304b4c9ab6e7de0b81578f170d58d40d
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Tue May 22 18:43:35 2018 +0200
+
+    Remove some commented out code
+
+commit 5429f1284794ad8c385386c82604c9423e0e9964
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Sat Apr 21 21:09:19 2018 +0200
+
+    Draft of a Status Trackign bar
+
+commit ba06c97f676f86418ecf2fb7368bb53c51e3f340
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Sat Apr 21 16:52:11 2018 +0200
+
+    Fix Lua errors on startup when Blizzard Vehicle was turned off
+
+commit 7ac186279da1cab7e51d5de5ff1ba0bd41e7b34c
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri Apr 20 21:48:46 2018 +0200
+
+    Fix visibility options in 8.0
+
+commit 3dc5e000fbbee252aa8878ca840f8a777eeb73c7
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri Apr 20 19:31:44 2018 +0200
+
+    Fix the PetBar after 8.0 API changes
+
+commit 2817606328446fe874215c72a720d5b86c225487
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri Apr 20 19:27:38 2018 +0200
+
+    Fix another glitch with the MainMenuBar
+
+commit d1ab1c0bba0ece025188fe070cc51e63eee9c0bf
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri Apr 20 19:24:00 2018 +0200
+
+    Update StanceBar for 8.0 API changes
+
+commit c70f44d54b586002778fafa21703727c59b7ac19
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri Apr 20 19:14:51 2018 +0200
+
+    Fix micro menu button layout on 8.0
+
+commit 20c8f3c51d6f34c11d3d1e06c7fa9d6885945495
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Fri Apr 20 19:10:02 2018 +0200
+
+    Fix errors in 8.0
+
+commit 5c05e085d7556bdafed7ae9670b43489923b65f8
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Wed Nov 8 14:37:26 2017 +0100
+
+    Remove pre-7.3 compat
+
